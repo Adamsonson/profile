@@ -43,11 +43,6 @@ h2 {
   font-size: 20px;
 }
 
-/*a {
-  color: red;
-}*/
-
-
 .btn-green {
   background-color: #00611C;
   color: #CFD8E1;
@@ -57,6 +52,11 @@ h2 {
 }
 
 .btn-green:hover {opacity: 0.6}
+
+#follow_me i:hover {
+  color: green;
+  opacity: 0.6;
+}
 
 #follow_me {
   padding: 0px;
@@ -73,12 +73,6 @@ h2 {
 ul > li {
   display: inline;
 }
-
-/*ul > li i {
-  size: 20px;
-}*/
-
-
 
 .container {
   width: 650px;
